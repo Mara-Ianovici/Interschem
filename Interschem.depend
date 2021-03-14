@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1615726076 source:d:\mara's documents\desktop\interschem\main.cpp
+	<graphics.h>
+	<mmsystem.h>
+	<winbgim.h>
+	<cstring>
+	<math.h>
+	<string.h>
+	<limits.h>
+	<stdlib.h>
+	<ctype.h>
+	<iostream>
+	<stdio.h>
+	<fstream>
+	<conio.h>
+
